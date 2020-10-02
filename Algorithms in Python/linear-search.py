@@ -18,4 +18,19 @@ def search(arr, x):
 			return i 
 
 	return -1
-search([1,2,34,44,3],3]
+
+# creating an empty list 
+lst = [] 
+
+# number of elemetns as input 
+n = int(input("Enter number of elements : ")) 
+
+# iterating till the range 
+for i in range(0, n): 
+	ele = int(input()) 
+
+	lst.append(ele) # adding the element 
+x = int(input("Enter element to be searched : ")) 	
+print(lst) 
+
+search(lst,x]
