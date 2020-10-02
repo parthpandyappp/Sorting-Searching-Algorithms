@@ -7,8 +7,13 @@ def linear_search(array, n, x):
     return -1
 
 
-array = random.sample(range(0, 9), 5)
-x = int(input("Enter the element to search[0-9]: "))
+array = []
+size = int(input("Enter size of the list: "))
+for n in range(size):
+    num = int(input("Enter Element: "))
+    array.append(num)
+    
+x = int(input("Enter the element to search: "))
 n = len(array)
 pos = linear_search(array, n, x)
 if(pos == -1):
