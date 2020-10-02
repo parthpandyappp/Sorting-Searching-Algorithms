@@ -8,12 +8,14 @@ def main():
     # search takes in the number ot be searched for
     search = int(input("Enter the element you want to search for: "))
 
+    flag = 0
     # Checking the if search is in array
-    for i in range(len(arr)):
+    for i in range(len(array)):
         if array[i] == search:
             print(f"Element {search} found at {i+1}")
-        else:
-            print("Element Not Found")
+            flag = 1
+     if flag == 0:
+         print("Element not found")   
 
 
 if __name__ == "__main__":
