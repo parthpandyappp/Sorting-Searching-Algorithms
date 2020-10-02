@@ -1,5 +1,3 @@
-# Time Complexity - O(n^2)
-
 def main():
 
     # array takes in space separated numbers from the user
@@ -7,16 +5,23 @@ def main():
         map(int, input("Enter the numbers separated with space: ").strip().split(" ")))
 
     # Calling the binary search method
-    output = bubble_sort(array)
+    output = insertion_sort(array)
     print(f"The sorted array is: {output}")
 
 
-def bubble_sort(array):
+def insertion_sort(array):
 
-    for i in range(len(array)):
-        for j in range(len(array)-1-i):
-            if array[i] > array[j+1]:
-                array[j], array[j+1] = array[j+1], array[j]
+    for i in range(1, len(array)):
+
+        value = array[i]
+
+        hole = i-1
+
+        while value < array[hole]:
+            array[hole + 1] = array[hole]
+            hole -= 1
+
+        array[hole + 1] = value
 
     return array
 
