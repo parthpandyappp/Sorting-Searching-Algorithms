@@ -1,5 +1,5 @@
 # Sorting function
-def selectionSort(arr):
+def bubbleSort(arr):
     size = len(arr)
     for i in range(size - 1):
         for j in range (0, size - i - 1):
@@ -15,5 +15,5 @@ for i in range(0, n):
     element = int(input())
     arr.append(element)
 
-arr = selectionSort(arr)
+arr = bubbleSort(arr)
 print("Sorted : ",arr)
