@@ -28,7 +28,7 @@ def binary_search(arr, low, high, x):
 
 # Test array 
 # creating an empty list 
-lst = [] 
+arr = [] 
 
 # number of elements as input 
 n = int(input("Enter number of elements : ")) 
@@ -37,9 +37,9 @@ n = int(input("Enter number of elements : "))
 for i in range(0, n): 
 	ele = int(input()) 
 
-	lst.append(ele) # adding the element 
+	arr.append(ele) # adding the element 
 	
-print(lst) 
+print(arr) 
 
 x =int(input("Enter element to be searched : ")) 
 
