@@ -14,8 +14,9 @@ def main():
         if array[i] == search:
             print(f"Element {search} found at {i+1}")
             flag = 1
-     if flag == 0:
-         print("Element not found")   
+            
+    if flag == 0:
+        print("Element not found")   
 
 
 if __name__ == "__main__":

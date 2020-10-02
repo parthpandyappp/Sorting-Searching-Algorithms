@@ -1,4 +1,4 @@
-# Time Complexity - log(n)
+# Time complexity : O(log n to the base 2s)
 
 def main():
 

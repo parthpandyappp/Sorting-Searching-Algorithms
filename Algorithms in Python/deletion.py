@@ -1,3 +1,4 @@
+# Linearly searches for the element to be deleted, if in case find the position in the array that is temprarily set as '0' and after that loop iterates the array from the pos to limit, and shifts all to the appropriate side and lastly, it just deletes the last block of the array.
 def main():
 
     # array takes in space separated numbers from the user
@@ -11,7 +12,7 @@ def main():
     if index == -1:
         print(f"{del_element} not present")
         exit()
-    # Calling the binary search method
+
     output = deletion(array,index)
     print(f"The sorted array is: {output}")
 

@@ -1,4 +1,6 @@
-# Time Complexity - O(n^2)
+# Aims to push all heavy elements in the right side and lighier to the extreme left.
+# Best case : Ω(n)
+# Worst case : O(n^2)
 
 def main():
 
@@ -6,7 +8,6 @@ def main():
     array = list(
         map(int, input("Enter the numbers separated with space: ").strip().split(" ")))
 
-    # Calling the binary search method
     output = bubble_sort(array)
     print(f"The sorted array is: {output}")
 
