@@ -19,7 +19,7 @@ Actually, this is an initiative to promote Open-Source among the newbies:triumph
 7. These program's name should only differ in extensions for instance : `.java`, `.CS`, `.py` etc :heavy_check_mark:.
 8. Open Up a pull request after a review, I'll merge if it has no conflicts.
 
-
+<img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+15+1.jpg" width="50px" />
 ## Contributors 🦸
 
 <p align="center">
