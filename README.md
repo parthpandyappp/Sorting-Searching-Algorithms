@@ -18,3 +18,10 @@ Actually, this is an initiative to promote Open-Source among the newbies:triumph
 6. The algorithmic programs should have the same name as of having in `Algorithms in C++` directory:heavy_check_mark:.
 7. These program's name should only differ in extensions for instance : `.java`, `.CS`, `.py` etc :heavy_check_mark:.
 8. Open Up a pull request after a review, I'll merge if it has no conflicts.
+
+
+## Contributors 🦸
+
+<p align="center">
+  <a href="https://github.com/parthpandyappp/Sorting-Searching-Algorithms/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=parthpandyappp/Sorting-Searching-Algorithms" /></a>
+</p>
