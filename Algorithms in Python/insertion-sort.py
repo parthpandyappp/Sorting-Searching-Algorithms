@@ -19,7 +19,20 @@ def insertionSort(arr):
 
 
 # Driver code to test above 
-arr = [12, 11, 13, 5, 6] 
+# creating an empty list 
+arr = [] 
+
+# number of elements as input 
+n = int(input("Enter number of elements : ")) 
+
+# iterating till the range 
+for i in range(0, n): 
+	ele = int(input()) 
+
+	arr.append(ele) # adding the element 
+	
+print(arr) 
+
 insertionSort(arr) 
 print ("Sorted array is:") 
 for i in range(len(arr)): 
