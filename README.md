@@ -17,8 +17,8 @@ Actually, this is an initiative to promote Open-Source among the newbies:triumph
 5. You have to add the same algorithms which have been already created in folder `Algorithms in C++`:heavy_check_mark:.
 6. The algorithmic programs should have the same name as of having in `Algorithms in C++` directory:heavy_check_mark:.
 7. These program's name should only differ in extensions for instance : `.java`, `.CS`, `.py` etc :heavy_check_mark:.
-8. Open Up a pull request after a review, I'll merge if it has no conflicts.
-7. **`NOTE`** Please implement User input on all algorithms instead of hard coded values.
+8. Open Up a pull request after a review, I'll merge if it has no conflicts:heavy_check_mark:.
+7. **`NOTE`** Please implement User input on all algorithms instead of hard coded values:heavy_check_mark:.
 
 <img align="left" src="https://posthog-static-files.s3.us-east-2.amazonaws.com/Website-Assets/rebrand/icons/Untitled_Artwork+2+copy+15+1.jpg" width="50px" />
 
