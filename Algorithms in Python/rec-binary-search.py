@@ -1,5 +1,3 @@
-
-
 def binary_search(array, x, low, high):
 
     if high >= low:
@@ -14,13 +12,19 @@ def binary_search(array, x, low, high):
         return -1
 
 
-array = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-x = int(input("Enter the element to search[0-9]: "))
+lst = []
+size = int(input("Enter size of the list: "))
+for n in range(size):
+    num = int(input("Enter Element: "))
+    lst.append(num)
+   
+lst.sort()
+x = int(input("Enter the element to search: "))
 
-pos = binary_search(array, x, 0, len(array)-1)
+pos = binary_search(lst, x, 0, len(lst)-1)
 
 if pos != -1:
     print("Element is present at index " + str(pos))
 else:
     print("Not found")
-print(array)
+print(lst)
