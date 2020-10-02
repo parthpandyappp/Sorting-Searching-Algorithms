@@ -1,4 +1,4 @@
-# Time Complexity - O(n)
+# Time Complexity - log(n)
 
 def main():
 
