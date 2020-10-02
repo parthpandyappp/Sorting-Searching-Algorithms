@@ -12,7 +12,7 @@ Actually, this is an initiative to promote Open-Source among the newbies:triumph
 
 1. Choose and pick the issue which most interests you:heavy_check_mark:.
 2. You can even create issue which I've not created for any other language you want to work on:heavy_check_mark:.
-3. Fork this repository.
+3. Fork this repository:heavy_check_mark:.
 4. You can create a folder with name : `Algorithms in <programming-language-name>`:heavy_check_mark:.
 5. You have to add the same algorithms which have been already created in folder `Algorithms in C++`:heavy_check_mark:.
 6. The algorithmic programs should have the same name as of having in `Algorithms in C++` directory:heavy_check_mark:.
