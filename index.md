@@ -1,4 +1,4 @@
-# -> Welcome to this project <-
+# **Welcome to this project**
 
 ### What's this about? 
 
@@ -6,7 +6,7 @@ Hello there :wave:, anyone those are new to Computer Science and just started wi
 
 Actually, this is an initiative to promote Open-Source among the newbies:triumph:, anyone who wants to get started with Git, GitHub or OpenSource contributions:cowboy_hat_face:.
 
-**<div align="center">`Simple Steps : Pick the issue which most interests you, even if that issuse is taken, you're good to go! Make Sure you strictly follow this below instructions to have your contributions to be considered!`**</div>
+<div align="center">**`Simple Steps : Pick the issue which most interests you, even if that issuse is taken, you're good to go! Make Sure you strictly follow this below instructions to have your contributions to be considered!`**</div>
 
 ### General Instructions :mega:
 
