@@ -67,4 +67,3 @@ class QuickSort
         printArray(arr);
     }
 }
-//Output: 1 5 7 8 9 10
