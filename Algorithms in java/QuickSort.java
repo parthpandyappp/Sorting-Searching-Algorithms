@@ -50,12 +50,19 @@ class QuickSort
 
     public static void main(String args[])
     {
-        int arr[] = {10, 7, 8, 9, 1, 5};
-        int n = arr.length;
-
+        int n;
+        Scanner s = new Scanner(System.in);
+        System.out.print("Enter no. of elements you want in array:");
+        n = s.nextInt();
+        
+        int arr[] = new int[n];
+        System.out.println("Enter all the elements:");
+        for(int i = 0; i < n; i++)
+        {
+            arr[i] = s.nextInt();
+        }
         QuickSort ob = new QuickSort();
         ob.sort(arr, 0, n-1);
-
         System.out.println("sorted array");
         printArray(arr);
     }
