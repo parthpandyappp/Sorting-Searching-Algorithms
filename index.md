@@ -2,7 +2,7 @@
 
 ### What's this about? 
 
-Hello there :wave:, anyone those are new to Computer Science and just started with Data structures and algorithms, are on the right place:ok_hand:. If they want to get started eith Git, GitHub or OpenSource Contributions. In the issues section, they can pick up one issue which directs them to make the same sorting and searching algorithms in different programming languages:open_mouth:. The algorithms are already been created using C++ for logic reference, you can refer to it and implement the programming languages which most interests you.:nerd_face:
+Hello there :wave:, anyone those are new to Computer Science and just started with Data structures and algorithms, are on the right place:ok_hand:. If they want to get started with Git, GitHub or OpenSource Contributions. In the issues section, they can pick up one issue which directs them to make the same sorting and searching algorithms in different programming languages:open_mouth:. The algorithms are already been created using C++ for logic reference, you can refer to it and implement the programming languages which most interests you.:nerd_face:
 
 Actually, this is an initiative to promote Open-Source among the newbies:triumph:, anyone who wants to get started with Git, GitHub or OpenSource contributions:cowboy_hat_face:.
 
