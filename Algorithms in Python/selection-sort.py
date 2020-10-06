@@ -1,3 +1,28 @@
+
+# Sorting function
+def selectionSort(arr):
+    size = len(arr)
+    for i in range(size - 1):
+        minIndex = i
+        for j in range (i+1, size):
+            if arr[j] < arr[minIndex]:
+                minIndex = j
+
+        if minIndex != i:
+            arr[minIndex], arr[i] = arr[i], arr[minIndex]
+    
+    return arr
+
+n = int(input("Enter size : "))
+arr = list()
+print("Enter elements : ")
+for i in range(0, n):
+    element = int(input())
+    arr.append(element)
+
+arr = selectionSort(arr)
+print("Sorted : ",arr)
+
 # Finds the smallest of all in the given array, every time the loop iterates. Considers a particular element of an array as small, and iterates a check with other elements in the array. In case it founds the comparision of array out of order, the elements are swapped
 
 # Time complexity analysis
@@ -30,3 +55,4 @@ def selection_sort(array):
 
 if __name__ == "__main__":
     main()
+
