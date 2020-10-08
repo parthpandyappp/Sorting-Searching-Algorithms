@@ -59,4 +59,3 @@ x = int(input("Enter element to be searched : "))
 print(lst) 
 
 search(lst,x)
-
