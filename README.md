@@ -25,7 +25,9 @@ Actually, this is an initiative to promote Open-Source among the newbies:triumph
 ## Contributors 🦸
 
 <p align="center">
-  <a href="https://github.com/parthpandyappp/Sorting-Searching-Algorithms/graphs/contributors"><img src="https://contributors-img.web.app/image?repo=parthpandyappp/Sorting-Searching-Algorithms" /></a>
+  <a href="https://github.com/parthpandyappp/Sorting-Searching-Algorithms/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=parthpandyappp/Sorting-Searching-Algorithms" />
+</a>
 </p>
 
 ##### **`All the Contributors will be featured above.`:heart_eyes: `Don't forget to Star`:star:`this repo`**
